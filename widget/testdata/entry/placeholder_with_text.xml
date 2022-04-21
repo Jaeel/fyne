@@ -1,0 +1,13 @@
+<canvas padded size="45x44">
+	<content>
+		<widget pos="4,4" size="37x36" type="*widget.Entry">
+			<rectangle fillColor="rgba(102,102,102,255)" pos="0,2" size="37x32"/>
+			<rectangle fillColor="shadow" pos="0,34" size="37x2"/>
+			<widget pos="0,2" size="37x32" type="*widget.entryContent">
+				<widget size="37x32" type="*widget.RichText">
+					<text pos="8,6" size="21x20">Text</text>
+				</widget>
+			</widget>
+		</widget>
+	</content>
+</canvas>
