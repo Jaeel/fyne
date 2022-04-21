@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Jaleel/fyne/cmd/fyne/internal/util"
+	"github.com/Jaeel/fyne/cmd/fyne/internal/util"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 	"golang.org/x/sys/execabs"

@@ -12,16 +12,16 @@ import (
 
 	"github.com/go-gl/glfw/v3.3/glfw"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/driver/desktop"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/driver/common"
-	"github.com/Jaleel/fyne/internal/painter"
-	"github.com/Jaleel/fyne/internal/painter/gl"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/driver/desktop"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/driver/common"
+	"github.com/Jaeel/fyne/internal/painter"
+	"github.com/Jaeel/fyne/internal/painter/gl"
 )
 
 const (

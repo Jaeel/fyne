@@ -2,7 +2,7 @@
 
 package async
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // UnboundedCanvasObjectChan is a channel with an unbounded buffer for caching
 // CanvasObject objects.

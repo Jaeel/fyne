@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/test"
 
 	"github.com/srwiley/oksvg"
 	"github.com/srwiley/rasterx"

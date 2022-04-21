@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 	"github.com/fsnotify/fsnotify"
 )
 

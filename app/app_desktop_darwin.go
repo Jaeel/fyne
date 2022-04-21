@@ -20,8 +20,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
 )
 
 func defaultVariant() fyne.ThemeVariant {

@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 func TestIsFileSVG(t *testing.T) {

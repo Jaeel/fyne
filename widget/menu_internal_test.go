@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/test"
 )
 
 func TestMenu_ItemTapped(t *testing.T) {

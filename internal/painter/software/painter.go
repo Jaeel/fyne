@@ -3,10 +3,10 @@ package software
 import (
 	"image"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/driver"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/driver"
 )
 
 // Painter is a simple software painter that can paint a canvas in memory.

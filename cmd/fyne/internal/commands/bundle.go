@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 	"github.com/urfave/cli/v2"
 )
 
@@ -253,7 +253,7 @@ func writeHeader(pkg string, out *os.File) {
 	fmt.Fprintln(out)
 	fmt.Fprintln(out, "package", pkg)
 	fmt.Fprintln(out)
-	fmt.Fprintln(out, "import \"github.com/Jaleel/fyne\"")
+	fmt.Fprintln(out, "import \"github.com/Jaeel/fyne\"")
 	fmt.Fprintln(out)
 }
 

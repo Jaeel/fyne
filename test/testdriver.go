@@ -4,12 +4,12 @@ import (
 	"image"
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/painter"
-	"github.com/Jaleel/fyne/internal/painter/software"
-	intRepo "github.com/Jaleel/fyne/internal/repository"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/painter"
+	"github.com/Jaeel/fyne/internal/painter/software"
+	intRepo "github.com/Jaeel/fyne/internal/repository"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 // SoftwarePainter describes a simple type that can render canvases

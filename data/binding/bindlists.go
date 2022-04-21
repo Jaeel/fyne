@@ -3,7 +3,7 @@
 
 package binding
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // BoolList supports binding a list of bool values.
 //

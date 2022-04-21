@@ -9,10 +9,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // Simulate being rendered by calling CreateRenderer() to update icon

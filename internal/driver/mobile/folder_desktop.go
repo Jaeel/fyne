@@ -3,7 +3,7 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 func canListURI(fyne.URI) bool {

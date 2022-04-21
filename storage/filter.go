@@ -3,7 +3,7 @@ package storage
 import (
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // FileFilter is an interface that can be implemented to provide a filter to a file dialog.

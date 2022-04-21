@@ -1,9 +1,9 @@
 package widget
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/data/binding"
-	"github.com/Jaleel/fyne/internal/cache"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/data/binding"
+	"github.com/Jaeel/fyne/internal/cache"
 )
 
 // Label widget is a label component with appropriate padding and layout.

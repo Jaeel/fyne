@@ -1,8 +1,8 @@
 package dialog
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/widget"
 )
 
 // EntryDialog is a variation of a dialog which prompts the user to enter some text.

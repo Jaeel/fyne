@@ -1,8 +1,8 @@
 package software
 
 import (
-	"github.com/Jaleel/fyne/internal/painter/software"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/internal/painter/software"
+	"github.com/Jaeel/fyne/test"
 )
 
 // NewCanvas creates a new canvas in memory that can render without hardware support

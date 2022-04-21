@@ -4,10 +4,10 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	col "github.com/Jaleel/fyne/internal/color"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	col "github.com/Jaeel/fyne/internal/color"
+	"github.com/Jaeel/fyne/test"
 
 	"github.com/stretchr/testify/assert"
 )

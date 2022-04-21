@@ -3,11 +3,11 @@ package app_test
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/container"
-	"github.com/Jaleel/fyne/internal/app"
-	internalWidget "github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/container"
+	"github.com/Jaeel/fyne/internal/app"
+	internalWidget "github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/widget"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

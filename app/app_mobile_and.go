@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver/mobile/app"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver/mobile/app"
 )
 
 func (a *fyneApp) OpenURL(url *url.URL) error {

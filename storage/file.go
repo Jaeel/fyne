@@ -4,7 +4,7 @@ package storage
 import (
 	"errors"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // OpenFileFromURI loads a file read stream from a resource identifier.

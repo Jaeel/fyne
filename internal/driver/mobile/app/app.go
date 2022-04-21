@@ -7,13 +7,13 @@
 package app
 
 import (
-	"github.com/Jaleel/fyne/internal/async"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/lifecycle"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/size"
-	"github.com/Jaleel/fyne/internal/driver/mobile/gl"
+	"github.com/Jaeel/fyne/internal/async"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/lifecycle"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/size"
+	"github.com/Jaeel/fyne/internal/driver/mobile/gl"
 
 	// Initialize necessary mobile functionality, such as logging.
-	_ "github.com/Jaleel/fyne/internal/driver/mobile/mobileinit"
+	_ "github.com/Jaeel/fyne/internal/driver/mobile/mobileinit"
 )
 
 // Main is called by the main.main function to run the mobile application.

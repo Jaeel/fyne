@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Jaleel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/cache"
 )
 
 // go test -race

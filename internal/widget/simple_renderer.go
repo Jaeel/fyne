@@ -1,6 +1,6 @@
 package widget
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 var _ fyne.WidgetRenderer = (*SimpleRenderer)(nil)
 

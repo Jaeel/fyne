@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 func rootConfigDir() string {

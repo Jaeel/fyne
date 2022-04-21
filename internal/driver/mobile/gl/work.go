@@ -45,7 +45,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/Jaleel/fyne/internal/async"
+	"github.com/Jaeel/fyne/internal/async"
 )
 
 const workbufLen = 3

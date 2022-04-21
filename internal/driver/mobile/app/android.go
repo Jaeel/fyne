@@ -60,13 +60,13 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/Jaleel/fyne/internal/driver/mobile/app/callfn"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/key"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/lifecycle"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/paint"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/size"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/touch"
-	"github.com/Jaleel/fyne/internal/driver/mobile/mobileinit"
+	"github.com/Jaeel/fyne/internal/driver/mobile/app/callfn"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/key"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/lifecycle"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/paint"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/size"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/touch"
+	"github.com/Jaeel/fyne/internal/driver/mobile/mobileinit"
 )
 
 // mimeMap contains standard mime entries that are missing on Android

@@ -4,10 +4,10 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/test"
 )
 
 func TestNewSimpleRenderer(t *testing.T) {

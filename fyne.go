@@ -7,9 +7,9 @@
 //
 //   package main
 //
-//   import "github.com/Jaleel/fyne/app"
-//   import "github.com/Jaleel/fyne/container"
-//   import "github.com/Jaleel/fyne/widget"
+//   import "github.com/Jaeel/fyne/app"
+//   import "github.com/Jaeel/fyne/container"
+//   import "github.com/Jaeel/fyne/widget"
 //
 //   func main() {
 //   	a := app.New()
@@ -25,4 +25,4 @@
 //
 //   	w.ShowAndRun()
 //   }
-package fyne // import "github.com/Jaleel/fyne"
+package fyne // import "github.com/Jaeel/fyne"

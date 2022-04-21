@@ -5,7 +5,7 @@ package theme
 import (
 	"image/color"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 var (

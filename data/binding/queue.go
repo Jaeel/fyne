@@ -3,7 +3,7 @@ package binding
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne/internal/async"
+	"github.com/Jaeel/fyne/internal/async"
 )
 
 var (

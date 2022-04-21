@@ -15,8 +15,8 @@ import (
 
 	"golang.org/x/sys/windows/registry"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
 
 	"golang.org/x/sys/execabs"
 )

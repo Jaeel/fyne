@@ -3,8 +3,8 @@ package driver
 import (
 	"math"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/cache"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/cache"
 )
 
 // AbsolutePositionForObject returns the absolute position of an object in a set of object trees.

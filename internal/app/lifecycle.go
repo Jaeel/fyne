@@ -3,7 +3,7 @@ package app
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 var _ fyne.Lifecycle = (*Lifecycle)(nil)

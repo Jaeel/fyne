@@ -5,8 +5,8 @@ package gl
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
 	"github.com/stretchr/testify/assert"
 )
 

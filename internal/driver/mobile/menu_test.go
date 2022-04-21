@@ -5,11 +5,11 @@ package mobile
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	internalWidget "github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	internalWidget "github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 
 	"github.com/stretchr/testify/assert"
 )

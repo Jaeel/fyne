@@ -1,9 +1,9 @@
 package widget
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/widget"
 )
 
 // RadioGroup widget has a list of text labels and checks check icons next to each.

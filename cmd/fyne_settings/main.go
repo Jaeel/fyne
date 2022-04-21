@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/app"
-	"github.com/Jaleel/fyne/cmd/fyne_settings/settings"
-	"github.com/Jaleel/fyne/container"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/app"
+	"github.com/Jaeel/fyne/cmd/fyne_settings/settings"
+	"github.com/Jaeel/fyne/container"
 )
 
 func main() {

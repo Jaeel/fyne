@@ -1,6 +1,6 @@
 package widget
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // BaseRenderer is a renderer base providing the most common implementations of a part of the
 // widget.Renderer interface.

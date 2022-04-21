@@ -8,12 +8,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/container"
-	"github.com/Jaleel/fyne/storage"
-	"github.com/Jaleel/fyne/storage/repository"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/container"
+	"github.com/Jaeel/fyne/storage"
+	"github.com/Jaeel/fyne/storage/repository"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 type viewLayout int

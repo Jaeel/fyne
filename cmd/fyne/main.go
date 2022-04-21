@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/Jaleel/fyne/cmd/fyne/internal/commands"
+	"github.com/Jaeel/fyne/cmd/fyne/internal/commands"
 	"github.com/urfave/cli/v2"
 )
 

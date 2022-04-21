@@ -271,7 +271,7 @@ More detailed release notes can be found on the [releases page](https://github.c
 
 These changes may break some apps, please read the 
 [upgrading doc](https://developer.fyne.io/api/v2.0/upgrading) for more info
-The import path is now `github.com/Jaleel/fyne` when you are ready to make the update.
+The import path is now `github.com/Jaeel/fyne` when you are ready to make the update.
 
 * Coordinate system to float32
   * Size and Position units were changed from int to float32

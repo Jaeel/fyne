@@ -5,12 +5,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/driver/desktop"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/driver/desktop"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
 )
 
 func clickPrimary(e *Entry, ev *fyne.PointEvent) {

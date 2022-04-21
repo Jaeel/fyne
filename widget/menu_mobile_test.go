@@ -6,11 +6,11 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	internalWidget "github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	internalWidget "github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/widget"
 )
 
 func TestMenu_Layout(t *testing.T) {

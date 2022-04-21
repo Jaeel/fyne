@@ -6,14 +6,14 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/container"
-	"github.com/Jaleel/fyne/data/validation"
-	"github.com/Jaleel/fyne/driver/mobile"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/container"
+	"github.com/Jaeel/fyne/data/validation"
+	"github.com/Jaeel/fyne/driver/mobile"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 const (

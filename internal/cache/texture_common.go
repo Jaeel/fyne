@@ -3,7 +3,7 @@ package cache
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 var textures = sync.Map{} // map[fyne.CanvasObject]*textureInfo

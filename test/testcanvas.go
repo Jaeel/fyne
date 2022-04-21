@@ -5,11 +5,11 @@ import (
 	"image/draw"
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/driver/desktop"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/driver/desktop"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/theme"
 )
 
 var (

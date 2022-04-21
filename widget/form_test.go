@@ -4,11 +4,11 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/data/validation"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/data/validation"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
 
 	"github.com/stretchr/testify/assert"
 )

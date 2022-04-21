@@ -3,7 +3,7 @@
 
 package data
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 var resourceFynescenedarkPng = &fyne.StaticResource{
 	StaticName:    "fyne_scene_dark.png",

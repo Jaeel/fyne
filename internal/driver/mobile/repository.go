@@ -1,9 +1,9 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 // declare conformance with repository types

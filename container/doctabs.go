@@ -3,11 +3,11 @@ package container
 import (
 	"image/color"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 // Declare conformity with Widget interface.

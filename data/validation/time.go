@@ -3,7 +3,7 @@ package validation
 import (
 	"time"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // NewTime creates a new validator that verifies times using time.Parse.

@@ -3,8 +3,8 @@ package test_test
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/test"
 
 	"github.com/stretchr/testify/assert"
 )

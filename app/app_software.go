@@ -3,9 +3,9 @@
 package app
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/painter/software"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/painter/software"
+	"github.com/Jaeel/fyne/test"
 )
 
 // NewWithID returns a new app instance using the test (headless) driver.

@@ -1,8 +1,8 @@
 package layout
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // Declare conformity with Layout interface

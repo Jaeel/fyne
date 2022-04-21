@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const fontFace = "NotoSans"
@@ -79,7 +79,7 @@ func writeFile(filename string, contents []byte) error {
 
 func main() {
 	f := &bytes.Buffer{}
-	f.WriteString(fileHeader + "\n\npackage theme\n\nimport \"github.com/Jaleel/fyne\"\n\n")
+	f.WriteString(fileHeader + "\n\npackage theme\n\nimport \"github.com/Jaeel/fyne\"\n\n")
 	bundleFont(fontFace, "Regular", f)
 	bundleFont(fontFace, "Bold", f)
 	bundleFont(fontFace, "Italic", f)
@@ -92,7 +92,7 @@ func main() {
 	}
 
 	f = &bytes.Buffer{}
-	f.WriteString(fileHeader + "\n\npackage theme\n\nimport \"github.com/Jaleel/fyne\"\n\n")
+	f.WriteString(fileHeader + "\n\npackage theme\n\nimport \"github.com/Jaeel/fyne\"\n\n")
 	icon := path.Join(iconDir(), "fyne.png")
 	bundleFile("fyne-logo", icon, f)
 

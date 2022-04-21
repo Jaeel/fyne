@@ -3,7 +3,7 @@ package mobile
 import (
 	"fmt"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type lister struct {

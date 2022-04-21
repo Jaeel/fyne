@@ -5,12 +5,12 @@
 // non-interactive, by design. If additional functonality is required,
 // it's usually a sign that this type should be used as part of a custom
 // Widget.
-package canvas // import "github.com/Jaleel/fyne/canvas"
+package canvas // import "github.com/Jaeel/fyne/canvas"
 
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type baseObject struct {

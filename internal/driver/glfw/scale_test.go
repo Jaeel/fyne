@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	_ "github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	_ "github.com/Jaeel/fyne/test"
 
 	"github.com/stretchr/testify/assert"
 )

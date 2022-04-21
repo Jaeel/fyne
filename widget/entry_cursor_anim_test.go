@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Jaleel/fyne/canvas"
-	col "github.com/Jaleel/fyne/internal/color"
-	_ "github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne/canvas"
+	col "github.com/Jaeel/fyne/internal/color"
+	_ "github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
 	"github.com/stretchr/testify/assert"
 )
 

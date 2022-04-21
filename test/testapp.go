@@ -1,15 +1,15 @@
 // Package test provides utility drivers for running UI tests without rendering
-package test // import "github.com/Jaleel/fyne/test"
+package test // import "github.com/Jaeel/fyne/test"
 
 import (
 	"net/url"
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // ensure we have a dummy app loaded and ready to test

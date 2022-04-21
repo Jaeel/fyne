@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const (

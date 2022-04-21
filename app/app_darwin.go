@@ -18,7 +18,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 	"golang.org/x/sys/execabs"
 )
 

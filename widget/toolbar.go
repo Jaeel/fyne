@@ -1,11 +1,11 @@
 package widget
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // ToolbarItem represents any interface element that can be added to a toolbar

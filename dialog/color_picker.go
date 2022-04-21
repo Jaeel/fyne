@@ -3,13 +3,13 @@ package dialog
 import (
 	"image/color"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/container"
-	col "github.com/Jaleel/fyne/internal/color"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/container"
+	col "github.com/Jaeel/fyne/internal/color"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 // newColorBasicPicker returns a component for selecting basic colors.

@@ -3,7 +3,7 @@ package dialog
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/test"
 	"github.com/stretchr/testify/assert"
 )
 

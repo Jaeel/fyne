@@ -10,11 +10,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/driver/desktop"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/driver/desktop"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/test"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

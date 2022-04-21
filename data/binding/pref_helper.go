@@ -3,7 +3,7 @@ package binding
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type preferenceItem interface {

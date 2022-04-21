@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // Runner is the main driver for animations package

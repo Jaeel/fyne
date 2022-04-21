@@ -5,7 +5,7 @@ package glfw
 import (
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 /*

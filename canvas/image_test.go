@@ -10,10 +10,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Jaleel/fyne/canvas"
-	intRepo "github.com/Jaleel/fyne/internal/repository"
-	"github.com/Jaleel/fyne/storage"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne/canvas"
+	intRepo "github.com/Jaeel/fyne/internal/repository"
+	"github.com/Jaeel/fyne/storage"
+	"github.com/Jaeel/fyne/storage/repository"
 
 	"github.com/stretchr/testify/assert"
 )

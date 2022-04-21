@@ -1,8 +1,8 @@
 package widget
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/widget"
 )
 
 var _ fyne.Widget = (*PopUpMenu)(nil)

@@ -1,8 +1,8 @@
 package playground
 
 import (
-	"github.com/Jaleel/fyne/driver/software"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/driver/software"
+	"github.com/Jaeel/fyne/test"
 )
 
 // NewSoftwareCanvas creates a new canvas in memory that can render without hardware support

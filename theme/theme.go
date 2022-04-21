@@ -1,12 +1,12 @@
 // Package theme defines how a Fyne app should look when rendered
-package theme // import "github.com/Jaleel/fyne/theme"
+package theme // import "github.com/Jaeel/fyne/theme"
 
 import (
 	"image/color"
 	"os"
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const (

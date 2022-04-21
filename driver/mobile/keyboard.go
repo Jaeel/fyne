@@ -1,7 +1,7 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // KeyboardType represents a type of virtual keyboard

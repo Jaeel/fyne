@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/Jaleel/fyne/storage"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne/storage"
+	"github.com/Jaeel/fyne/storage/repository"
 
 	"github.com/stretchr/testify/assert"
 )

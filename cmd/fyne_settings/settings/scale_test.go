@@ -3,10 +3,10 @@ package settings
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 	"github.com/stretchr/testify/assert"
 )
 

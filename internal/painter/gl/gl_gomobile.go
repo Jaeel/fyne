@@ -10,11 +10,11 @@ import (
 	"image/draw"
 	"math"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/driver/mobile/gl"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/driver/mobile/gl"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // Buffer represents a GL buffer

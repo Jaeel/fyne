@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne/storage"
 )
 
 func TestStripPrecision(t *testing.T) {

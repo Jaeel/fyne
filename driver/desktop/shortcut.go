@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // Declare conformity with Shortcut interface

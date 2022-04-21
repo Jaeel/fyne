@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/test"
 	"github.com/stretchr/testify/assert"
 )
 

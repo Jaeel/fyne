@@ -5,14 +5,14 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne/theme"
 	"github.com/goki/freetype"
 	"github.com/goki/freetype/truetype"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/painter"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/painter"
 )
 
 func logGLError(err uint32) {

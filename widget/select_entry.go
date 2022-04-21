@@ -1,8 +1,8 @@
 package widget
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // SelectEntry is an input field which supports selecting from a fixed set of options.

@@ -1,12 +1,12 @@
 package glfw
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/driver/desktop"
-	"github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/theme"
-	publicWidget "github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/driver/desktop"
+	"github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/theme"
+	publicWidget "github.com/Jaeel/fyne/widget"
 )
 
 var _ desktop.Hoverable = (*menuBarItem)(nil)

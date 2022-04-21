@@ -5,8 +5,8 @@ package dialog
 import (
 	"os"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage"
 )
 
 func getFavoriteLocations() (map[string]fyne.ListableURI, error) {

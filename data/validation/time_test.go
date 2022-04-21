@@ -3,7 +3,7 @@ package validation_test
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne/data/validation"
+	"github.com/Jaeel/fyne/data/validation"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -1,4 +1,4 @@
-module github.com/Jaleel/fyne
+module github.com/Jaeel/fyne
 
 go 1.16
 

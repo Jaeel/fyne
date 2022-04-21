@@ -3,7 +3,7 @@ package theme
 import (
 	"image/color"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // FromLegacy returns a 2.0 Theme created from the given LegacyTheme data.

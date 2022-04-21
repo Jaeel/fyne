@@ -3,7 +3,7 @@ package widget
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne/data/binding"
+	"github.com/Jaeel/fyne/data/binding"
 	"github.com/stretchr/testify/assert"
 )
 

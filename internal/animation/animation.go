@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type anim struct {

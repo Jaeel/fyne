@@ -11,10 +11,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/cache"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/cache"
 
 	"github.com/srwiley/oksvg"
 	"github.com/srwiley/rasterx"

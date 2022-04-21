@@ -4,14 +4,14 @@ import (
 	"image"
 	"math"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/driver/common"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/driver/common"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 // Declare conformity with Canvas interface

@@ -1,7 +1,7 @@
 package tutorials
 
 import (
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // Tutorial defines the data structure for a tutorial

@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 
 	"github.com/stretchr/testify/assert"
 )

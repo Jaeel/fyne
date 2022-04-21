@@ -3,8 +3,8 @@ package software
 import (
 	"image"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/app"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/app"
 )
 
 // RenderCanvas takes a canvas and renders it to a regular Go image using the provided Theme.

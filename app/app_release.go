@@ -2,6 +2,6 @@
 
 package app
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 const buildMode = fyne.BuildRelease

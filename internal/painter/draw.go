@@ -3,8 +3,8 @@ package painter
 import (
 	"image"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
 
 	"github.com/srwiley/rasterx"
 	"golang.org/x/image/math/fixed"

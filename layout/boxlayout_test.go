@@ -3,10 +3,10 @@ package layout_test
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
 
 	"github.com/stretchr/testify/assert"
 )

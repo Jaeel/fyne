@@ -1,13 +1,13 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/container"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/driver/common"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/container"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/driver/common"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 type window struct {

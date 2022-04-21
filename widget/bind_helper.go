@@ -3,7 +3,7 @@ package widget
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne/data/binding"
+	"github.com/Jaeel/fyne/data/binding"
 )
 
 // basicBinder stores a DataItem and a function to be called when it changes.

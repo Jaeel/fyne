@@ -20,8 +20,8 @@ import (
 	"io"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 type secureReadCloser struct {

@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"text/template"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const itemBindTemplate = `
@@ -636,7 +636,7 @@ func main() {
 	}
 	defer itemFile.Close()
 	itemFile.WriteString(`
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 `)
 	convertFile, err := newFile("convert")
 	if err != nil {
@@ -647,7 +647,7 @@ import "github.com/Jaleel/fyne"
 import (
 	"fmt"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 `)
 	prefFile, err := newFile("preference")
@@ -659,7 +659,7 @@ import (
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const keyTypeMismatchError = "A previous preference binding exists with different type for key: "
@@ -671,7 +671,7 @@ const keyTypeMismatchError = "A previous preference binding exists with differen
 	}
 	defer listFile.Close()
 	listFile.WriteString(`
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 `)
 
 	item := template.Must(template.New("item").Parse(itemBindTemplate))

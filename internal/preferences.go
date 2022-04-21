@@ -3,7 +3,7 @@ package internal
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // InMemoryPreferences provides an implementation of the fyne.Preferences API that is stored in memory.

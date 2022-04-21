@@ -1,9 +1,9 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/driver/mobile"
-	"github.com/Jaleel/fyne/internal/driver/mobile/app"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/driver/mobile"
+	"github.com/Jaeel/fyne/internal/driver/mobile/app"
 )
 
 func showVirtualKeyboard(keyboard mobile.KeyboardType) {

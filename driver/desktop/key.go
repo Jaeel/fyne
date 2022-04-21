@@ -1,7 +1,7 @@
 package desktop
 
 import (
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const (

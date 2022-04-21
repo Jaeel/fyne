@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/data/binding"
-	"github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/data/binding"
+	"github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // Orientation controls the horizontal/vertical layout of a widget

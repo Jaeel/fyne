@@ -5,13 +5,13 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/async"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/painter/gl"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/async"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/painter/gl"
 )
 
 // SizeableCanvas defines a canvas with size related functions.

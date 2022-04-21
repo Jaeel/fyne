@@ -3,9 +3,9 @@ package container
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/widget"
 
 	"github.com/stretchr/testify/assert"
 )

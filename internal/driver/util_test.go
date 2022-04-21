@@ -4,14 +4,14 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/container"
-	"github.com/Jaleel/fyne/internal/driver"
-	internal_widget "github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/layout"
-	_ "github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/container"
+	"github.com/Jaeel/fyne/internal/driver"
+	internal_widget "github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/layout"
+	_ "github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/widget"
 
 	"github.com/stretchr/testify/assert"
 )

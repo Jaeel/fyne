@@ -4,9 +4,9 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/layout"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/layout"
 
 	"github.com/stretchr/testify/assert"
 )

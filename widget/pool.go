@@ -3,7 +3,7 @@ package widget
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type pool interface {

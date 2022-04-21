@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage"
 )
 
 type file struct {

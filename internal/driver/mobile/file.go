@@ -3,9 +3,9 @@ package mobile
 import (
 	"io"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver/mobile/app"
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver/mobile/app"
+	"github.com/Jaeel/fyne/storage"
 )
 
 type fileOpen struct {

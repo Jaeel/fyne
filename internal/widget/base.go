@@ -3,9 +3,9 @@ package widget
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/cache"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/cache"
 )
 
 // Base provides a helper that handles basic widget behaviours.

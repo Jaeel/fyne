@@ -4,9 +4,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne/storage"
 
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/test"
 	"github.com/stretchr/testify/assert"
 )
 

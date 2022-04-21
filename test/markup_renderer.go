@@ -8,12 +8,12 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	col "github.com/Jaleel/fyne/internal/color"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	col "github.com/Jaeel/fyne/internal/color"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
 )
 
 type markupRenderer struct {

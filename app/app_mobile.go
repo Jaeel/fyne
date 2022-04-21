@@ -5,8 +5,8 @@
 package app
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver/mobile"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver/mobile"
 )
 
 var systemTheme fyne.ThemeVariant

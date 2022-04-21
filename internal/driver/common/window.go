@@ -3,7 +3,7 @@ package common
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // Window defines common functionality for windows.

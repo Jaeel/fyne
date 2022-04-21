@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"strconv"
 
-	col "github.com/Jaleel/fyne/internal/color"
+	col "github.com/Jaeel/fyne/internal/color"
 )
 
 // svg holds the unmarshaled XML from a Scalable Vector Graphic

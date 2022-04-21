@@ -7,9 +7,9 @@ import (
 	"image/draw"
 	"testing"
 
-	"github.com/Jaleel/fyne/canvas"
-	internalTest "github.com/Jaleel/fyne/internal/test"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne/canvas"
+	internalTest "github.com/Jaeel/fyne/internal/test"
+	"github.com/Jaeel/fyne/test"
 
 	"github.com/stretchr/testify/assert"
 )

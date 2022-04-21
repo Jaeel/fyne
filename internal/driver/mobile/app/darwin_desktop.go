@@ -29,11 +29,11 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/key"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/lifecycle"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/paint"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/size"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/touch"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/key"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/lifecycle"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/paint"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/size"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/touch"
 )
 
 var initThreadID uint64

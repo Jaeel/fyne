@@ -2,7 +2,7 @@
 
 package cache
 
-import "github.com/Jaleel/fyne/internal/driver/mobile/gl"
+import "github.com/Jaeel/fyne/internal/driver/mobile/gl"
 
 // TextureType represents an uploaded GL texture
 type TextureType = gl.Texture

@@ -3,8 +3,8 @@ package tutorials
 import (
 	"image/color"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
 )
 
 var (

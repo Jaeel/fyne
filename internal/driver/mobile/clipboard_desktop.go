@@ -2,7 +2,7 @@
 
 package mobile
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // Content returns the clipboard content for mobile simulator runs
 func (c *mobileClipboard) Content() string {

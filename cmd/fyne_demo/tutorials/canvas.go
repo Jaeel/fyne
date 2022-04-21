@@ -4,10 +4,10 @@ import (
 	"image/color"
 	"time"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/theme"
 )
 
 func rgbGradient(x, y, w, h int) color.Color {

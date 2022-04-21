@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Jaleel/fyne/internal/async"
+	"github.com/Jaeel/fyne/internal/async"
 )
 
 func TestUnboundedChann(t *testing.T) {

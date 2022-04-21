@@ -13,10 +13,10 @@ import (
 
 	gl "github.com/go-gl/gl/v3.1/gles2"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/theme"
 )
 
 // Buffer represents a GL buffer

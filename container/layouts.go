@@ -1,8 +1,8 @@
-package container // import "github.com/Jaleel/fyne/container"
+package container // import "github.com/Jaeel/fyne/container"
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/layout"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/layout"
 )
 
 // NewAdaptiveGrid creates a new container with the specified objects and using the grid layout.

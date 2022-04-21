@@ -4,13 +4,13 @@ import (
 	"image/color"
 	"strconv"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/data/binding"
-	"github.com/Jaleel/fyne/internal/cache"
-	col "github.com/Jaleel/fyne/internal/color"
-	"github.com/Jaleel/fyne/internal/widget"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/data/binding"
+	"github.com/Jaeel/fyne/internal/cache"
+	col "github.com/Jaeel/fyne/internal/color"
+	"github.com/Jaeel/fyne/internal/widget"
+	"github.com/Jaeel/fyne/theme"
 )
 
 type progressRenderer struct {

@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"time"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 const (

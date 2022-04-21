@@ -5,11 +5,11 @@ import (
 	"image"
 	"math"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/painter"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/painter"
+	"github.com/Jaeel/fyne/theme"
 
 	"github.com/goki/freetype"
 	"github.com/goki/freetype/truetype"

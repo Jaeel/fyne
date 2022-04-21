@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // splitNonEmpty works exactly like strings.Split(), but only returns non-empty

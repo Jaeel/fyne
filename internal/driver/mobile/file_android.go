@@ -22,9 +22,9 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver/mobile/app"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver/mobile/app"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 type javaStream struct {

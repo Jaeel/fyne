@@ -6,7 +6,7 @@ package binding
 import (
 	"fmt"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type stringFromBool struct {

@@ -1,10 +1,10 @@
 package mobile
 
 import (
-	"github.com/Jaleel/fyne/driver/mobile"
-	"github.com/Jaleel/fyne/internal/driver/mobile/event/size"
+	"github.com/Jaeel/fyne/driver/mobile"
+	"github.com/Jaeel/fyne/internal/driver/mobile/event/size"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type device struct {

@@ -17,8 +17,8 @@ import (
 	"golang.org/x/mod/modfile"
 	"golang.org/x/mod/module"
 
-	"github.com/Jaleel/fyne/cmd/fyne/internal/metadata"
-	"github.com/Jaleel/fyne/cmd/fyne/internal/util"
+	"github.com/Jaeel/fyne/cmd/fyne/internal/metadata"
+	"github.com/Jaeel/fyne/cmd/fyne/internal/util"
 )
 
 const (

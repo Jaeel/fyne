@@ -3,10 +3,10 @@ package dialog
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/layout"
-	"github.com/Jaleel/fyne/test"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/layout"
+	"github.com/Jaeel/fyne/test"
+	"github.com/Jaeel/fyne/theme"
 )
 
 func Test_colorGreyscalePicker_Layout(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 var (

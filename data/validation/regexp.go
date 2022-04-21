@@ -5,7 +5,7 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 // NewRegexp creates a new validator that uses regular expression parsing.

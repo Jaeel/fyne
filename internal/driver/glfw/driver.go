@@ -9,14 +9,14 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/animation"
-	intapp "github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/driver"
-	"github.com/Jaleel/fyne/internal/driver/common"
-	"github.com/Jaleel/fyne/internal/painter"
-	intRepo "github.com/Jaleel/fyne/internal/repository"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/animation"
+	intapp "github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/driver"
+	"github.com/Jaeel/fyne/internal/driver/common"
+	"github.com/Jaeel/fyne/internal/painter"
+	intRepo "github.com/Jaeel/fyne/internal/repository"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 const mainGoroutineID = 1

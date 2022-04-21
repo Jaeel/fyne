@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/internal/app"
-	"github.com/Jaleel/fyne/internal/cache"
-	"github.com/Jaleel/fyne/internal/painter"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/internal/app"
+	"github.com/Jaeel/fyne/internal/cache"
+	"github.com/Jaeel/fyne/internal/painter"
 
 	"github.com/go-gl/glfw/v3.3/glfw"
 )

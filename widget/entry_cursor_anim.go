@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	col "github.com/Jaleel/fyne/internal/color"
-	"github.com/Jaleel/fyne/theme"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	col "github.com/Jaeel/fyne/internal/color"
+	"github.com/Jaeel/fyne/theme"
 )
 
 const cursorInterruptTime = 300 * time.Millisecond

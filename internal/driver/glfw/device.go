@@ -3,7 +3,7 @@ package glfw
 import (
 	"runtime"
 
-	"github.com/Jaleel/fyne"
+	"github.com/Jaeel/fyne"
 )
 
 type glDevice struct {

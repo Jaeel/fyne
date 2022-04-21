@@ -1,9 +1,9 @@
 package dialog
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/theme"
-	"github.com/Jaleel/fyne/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/theme"
+	"github.com/Jaeel/fyne/widget"
 )
 
 // ConfirmDialog is like the standard Dialog but with an additional confirmation button

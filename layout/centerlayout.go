@@ -1,6 +1,6 @@
 package layout
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // Declare conformity with Layout interface
 var _ fyne.Layout = (*centerLayout)(nil)

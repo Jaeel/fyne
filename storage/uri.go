@@ -1,8 +1,8 @@
 package storage
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 // NewFileURI creates a new URI from the given file path.

@@ -3,10 +3,10 @@ package painter_test
 import (
 	"testing"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/painter/software"
-	"github.com/Jaleel/fyne/test"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/painter/software"
+	"github.com/Jaeel/fyne/test"
 )
 
 func TestPaintImage_SVG(t *testing.T) {

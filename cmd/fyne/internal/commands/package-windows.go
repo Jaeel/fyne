@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/Jaleel/fyne/cmd/fyne/internal/templates"
+	"github.com/Jaeel/fyne/cmd/fyne/internal/templates"
 	ico "github.com/Kodeworks/golang-image-ico"
 	"github.com/josephspurrier/goversioninfo"
 	"github.com/pkg/errors"

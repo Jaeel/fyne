@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/storage"
 
 	"golang.org/x/sys/execabs"
 )

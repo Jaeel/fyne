@@ -3,9 +3,9 @@ package app
 import (
 	"os"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal"
-	"github.com/Jaleel/fyne/storage"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal"
+	"github.com/Jaeel/fyne/storage"
 )
 
 type store struct {

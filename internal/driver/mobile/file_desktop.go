@@ -5,9 +5,9 @@ package mobile
 import (
 	"io"
 
-	"github.com/Jaleel/fyne"
-	intRepo "github.com/Jaleel/fyne/internal/repository"
-	"github.com/Jaleel/fyne/storage/repository"
+	"github.com/Jaeel/fyne"
+	intRepo "github.com/Jaeel/fyne/internal/repository"
+	"github.com/Jaeel/fyne/storage/repository"
 )
 
 func existsURI(fyne.URI) (bool, error) {

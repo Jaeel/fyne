@@ -1,6 +1,6 @@
 package mobile
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 func (d *mobileDriver) StartAnimation(a *fyne.Animation) {
 	d.animation.Start(a)

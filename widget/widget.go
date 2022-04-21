@@ -1,13 +1,13 @@
 // Package widget defines the UI widgets within the Fyne toolkit
-package widget // import "github.com/Jaleel/fyne/widget"
+package widget // import "github.com/Jaeel/fyne/widget"
 
 import (
 	"sync"
 
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/canvas"
-	"github.com/Jaleel/fyne/internal/cache"
-	internalWidget "github.com/Jaleel/fyne/internal/widget"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/canvas"
+	"github.com/Jaeel/fyne/internal/cache"
+	internalWidget "github.com/Jaeel/fyne/internal/widget"
 )
 
 // BaseWidget provides a helper that handles basic widget behaviours.

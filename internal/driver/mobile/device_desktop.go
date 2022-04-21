@@ -2,7 +2,7 @@
 
 package mobile
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 const tapYOffset = 0 // no finger compensation on desktop (simulation)
 

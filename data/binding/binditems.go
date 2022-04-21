@@ -3,7 +3,7 @@
 
 package binding
 
-import "github.com/Jaleel/fyne"
+import "github.com/Jaeel/fyne"
 
 // Bool supports binding a bool value.
 //

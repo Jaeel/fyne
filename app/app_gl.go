@@ -3,8 +3,8 @@
 package app
 
 import (
-	"github.com/Jaleel/fyne"
-	"github.com/Jaleel/fyne/internal/driver/glfw"
+	"github.com/Jaeel/fyne"
+	"github.com/Jaeel/fyne/internal/driver/glfw"
 )
 
 // NewWithID returns a new app instance using the appropriate runtime driver.

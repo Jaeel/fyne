@@ -3,9 +3,9 @@ package internal
 import (
 	"testing"
 
-	intRepo "github.com/Jaleel/fyne/internal/repository"
-	"github.com/Jaleel/fyne/storage"
-	"github.com/Jaleel/fyne/storage/repository"
+	intRepo "github.com/Jaeel/fyne/internal/repository"
+	"github.com/Jaeel/fyne/storage"
+	"github.com/Jaeel/fyne/storage/repository"
 
 	"github.com/stretchr/testify/assert"
 )
